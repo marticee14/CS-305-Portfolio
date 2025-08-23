@@ -1,6 +1,6 @@
 # CS-305-Final-Journal
 
-•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+##•	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
 *Artemis Financial is a consulting company that develops financial plans for clients including savings, retirement, investments, and insurance. They are working with my company, Global Rain, which specializes in custom software design and development to modernize their operations. Artemis Financial currently has a RESTful web API and a public-facing web interface, and they are seeking to enhance the security of their systems to better protect client data and financial information.* 
 
