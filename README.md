@@ -1,7 +1,6 @@
 # CS-305 Final Journal
-## Elizabeth Marticello
 
-Included in this project is the refactored code base for Project 2 as well as the paired report "Artemis Financial Practices for Secure Software Report" which I have shared as "Project 2 Report". 
+> Included in this project is the refactored code base for Project 2 as well as the paired report "Artemis Financial Practices for Secure Software Report" which I have shared as "Project 2 Report". By Elizabeth Marticello
 
 •	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
